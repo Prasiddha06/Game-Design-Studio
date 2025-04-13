@@ -1,5 +1,5 @@
 /* 
-Infinite Runner Ultimate Presented by Black Gear Studio ©
+Infinite Runner Ultimate Presented by Black Gear Studio ?
          Programmed by Subhojeet Pramanik
 
 This script manages the placing of tracks one after the other and recycling them

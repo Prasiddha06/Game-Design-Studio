@@ -19,7 +19,7 @@ public class LevelMakerEditor : Editor
     GUIStyle headingStyle2 = new GUIStyle();
     GUIStyle headingStyle3 = new GUIStyle();
     void OnEnable()
-    {
+
         lvlmakerobject = new SerializedObject(target);
         lvlmaker = (LevelMaker)target;
         headingStyle.fontStyle = FontStyle.Bold;
